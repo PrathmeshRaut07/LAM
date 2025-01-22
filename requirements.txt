@@ -1,1 +1,5 @@
 pyautogui
+matplotlib
+pillow
+google-genai
+python-dotenv
